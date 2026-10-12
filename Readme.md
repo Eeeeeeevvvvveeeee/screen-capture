@@ -9,6 +9,10 @@ A minimal Electron desktop app for capturing screenshots. Features a frameless w
 - 📌 System tray integration
 - 💾 Saves screenshots to your home folder
 
+## Prerequisites
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js)
+
 ## Installation
 \`\`\`bash
 git clone https://github.com/Eeeeeeevvvvveeeee/screen-capture.git
